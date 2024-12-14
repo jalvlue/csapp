@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "*.c": "c",
+    "*.h": "c"
+  },
+  "clangd.arguments": [
+    "--query-driver=/usr/bin/gcc",
+  ],
+  "clangd.fallbackFlags": [
+    "-std=c11"
+  ]
+}

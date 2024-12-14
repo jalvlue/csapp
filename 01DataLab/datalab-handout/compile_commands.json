@@ -1,0 +1,92 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-O",
+      "-Wall",
+      "-m32",
+      "-o",
+      "btest",
+      "bits.c"
+    ],
+    "directory": "/home/jalvlue/courses/15213-csapp/labs/01DataLab/datalab-handout",
+    "file": "/home/jalvlue/courses/15213-csapp/labs/01DataLab/datalab-handout/bits.c",
+    "output": "/home/jalvlue/courses/15213-csapp/labs/01DataLab/datalab-handout/btest"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-O",
+      "-Wall",
+      "-m32",
+      "-o",
+      "btest",
+      "btest.c"
+    ],
+    "directory": "/home/jalvlue/courses/15213-csapp/labs/01DataLab/datalab-handout",
+    "file": "/home/jalvlue/courses/15213-csapp/labs/01DataLab/datalab-handout/btest.c",
+    "output": "/home/jalvlue/courses/15213-csapp/labs/01DataLab/datalab-handout/btest"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-O",
+      "-Wall",
+      "-m32",
+      "-o",
+      "btest",
+      "decl.c"
+    ],
+    "directory": "/home/jalvlue/courses/15213-csapp/labs/01DataLab/datalab-handout",
+    "file": "/home/jalvlue/courses/15213-csapp/labs/01DataLab/datalab-handout/decl.c",
+    "output": "/home/jalvlue/courses/15213-csapp/labs/01DataLab/datalab-handout/btest"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-O",
+      "-Wall",
+      "-m32",
+      "-o",
+      "btest",
+      "tests.c"
+    ],
+    "directory": "/home/jalvlue/courses/15213-csapp/labs/01DataLab/datalab-handout",
+    "file": "/home/jalvlue/courses/15213-csapp/labs/01DataLab/datalab-handout/tests.c",
+    "output": "/home/jalvlue/courses/15213-csapp/labs/01DataLab/datalab-handout/btest"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-O",
+      "-Wall",
+      "-m32",
+      "-o",
+      "fshow",
+      "fshow.c"
+    ],
+    "directory": "/home/jalvlue/courses/15213-csapp/labs/01DataLab/datalab-handout",
+    "file": "/home/jalvlue/courses/15213-csapp/labs/01DataLab/datalab-handout/fshow.c",
+    "output": "/home/jalvlue/courses/15213-csapp/labs/01DataLab/datalab-handout/fshow"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-O",
+      "-Wall",
+      "-m32",
+      "-o",
+      "ishow",
+      "ishow.c"
+    ],
+    "directory": "/home/jalvlue/courses/15213-csapp/labs/01DataLab/datalab-handout",
+    "file": "/home/jalvlue/courses/15213-csapp/labs/01DataLab/datalab-handout/ishow.c",
+    "output": "/home/jalvlue/courses/15213-csapp/labs/01DataLab/datalab-handout/ishow"
+  }
+]
